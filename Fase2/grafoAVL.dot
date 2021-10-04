@@ -1,0 +1,23 @@
+digraph G{
+node [shape=rectangle];
+"95644983730"[label="201822186
+Eloisa Rincon
+Ingenieria Civil"];
+"95644983730" -> "95644983712";
+"95644983730" -> "95644983685";
+"95644983712"[label="201501786
+Juan Curiel
+Ingenieria Industrial"];
+"95644983712" -> "95644986655";
+"95644986655"[label="201801245
+Juan kempes
+Ingenieria Civil"];
+"95644983685"[label="201901425
+Emilia Miramontes
+Ingenieria en Ciencias y Sistemas"];
+"95644983685" -> "95644983718";
+"95644983718"[label="201901973
+Raudy Cabrera
+Ingenieria Sistemas"];
+
+}
